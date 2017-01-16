@@ -1,0 +1,31 @@
+{
+  "name": "stylishportfolio",
+  "version": "1.0.0",
+  "description": "a static site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huwhoover/stylish-portfolio-jekyll.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "stylish-portfolio"
+  ],
+  "author": "huwhoover",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huwhoover/stylish-portfolio-jekyll/issues"
+  },
+  "homepage": "https://github.com/huwhoover/stylish-portfolio-jekyll#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "jeet": "^7.1.0",
+    "require-dir": "^0.3.1"
+  }
+}
